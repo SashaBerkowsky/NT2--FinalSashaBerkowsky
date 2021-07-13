@@ -16,8 +16,8 @@
     <p>Codificado: {{text | codificado}}</p>
     <p>Todo Minuscula: {{text | minuscula}}</p>
     <p>Todo Mayuscula: {{text | mayuscula}}</p>
-    <p>Mayus-Min intercalado: {{text | intercaladoA}}</p>
-    <p>Min-Mayus intercalado: {{text | intercaladoB}}</p>
+    <p>Mayus-Min Intercalado: {{text | intercaladoA}}</p>
+    <p>Min-Mayus Intercalado: {{text | intercaladoB}}</p>
    
   </section>
 
